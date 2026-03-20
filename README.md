@@ -583,22 +583,20 @@ CREATE TABLE purchase_requests (
 
 ## Screenshots
 
-> Adicione screenshots das telas do sistema aqui
+### 1. Tela de Login
+![Tela de Login](./img/01-tela-login.png)
 
-### Tela de Login
-`<!-- ![Login](./screenshots/login.png) -->`
+### 2. Criacao do Termo de Compra (R$800,00)
+![Formulario Preenchido](./img/03-formulario-preenchido.png)
 
-### Dashboard — Usuario
-`<!-- ![Dashboard User](./screenshots/dashboard-user.png) -->`
+### 3. Painel do Coordenador — Aprovacoes Pendentes
+![Aprovacoes Pendentes Coordenador](./img/06-aprovacoes-pendentes-coordenador.png)
 
-### Formulario de Nova Solicitacao
-`<!-- ![Purchase Form](./screenshots/purchase-form.png) -->`
+### 4. Painel do Gerente Geral (valor > R$500)
+![Painel Gerente Geral](./img/09-painel-gerente-geral.png)
 
-### Painel de Aprovacoes Pendentes
-`<!-- ![Approvals](./screenshots/approvals.png) -->`
-
-### Detalhes da Solicitacao — Fluxo Completo
-`<!-- ![Detail](./screenshots/detail-modal.png) -->`
+### 5. Termo Totalmente Aprovado (3 etapas concluidas)
+![Termo Aprovado](./img/15-termo-totalmente-aprovado.png)
 
 ---
 
